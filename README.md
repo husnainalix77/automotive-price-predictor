@@ -117,7 +117,7 @@ pip install -r requirements.txt
 ### Step 2 — Navigate to Dashboard Folder
 
 ```bash
-cd path\to\FinalProject-2023-MC-53_MC-65\dashboard
+cd path\to\automotive-price-predictor\dashboard
 ```
 
 ### Step 3 — Launch Dashboard
