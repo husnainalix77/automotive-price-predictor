@@ -42,8 +42,7 @@ regression modelling, classification modelling, clustering, and deployment.
 ```
 automotive-price-predictor/
 ├── notebook/
-│   ├── data/
-│   │   └── data.csv                          ← raw dataset
+│   ├── data.csv ← raw dataset
 │   └── automotiv-price-analysis.ipynb  ← fully executed notebook
 ├── dashboard/
 │   ├── app.py                                ← Streamlit application
