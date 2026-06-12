@@ -39,7 +39,7 @@ regression modelling, classification modelling, clustering, and deployment.
 ---
 
 ## Project Structure
-
+```
 automotive-price-predictor/
 ├── notebook/
 │   ├── data/
@@ -58,6 +58,7 @@ automotive-price-predictor/
 │       ├── scaler.pkl                        ← StandardScaler
 │       └── feature_columns.json             ← feature column order
 └── README.md                                 ← this file
+```
 ---
 
 ## Pipeline Overview (9 Phases)
