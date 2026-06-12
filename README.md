@@ -196,8 +196,7 @@ what makes each cluster distinctive from the overall dataset.
 ## Academic Integrity
 
 All interpretations, explanations, markdown narratives and modelling 
-decisions in this project were written and understood by both group 
-members. AI tools were used only for syntax assistance, debugging 
+decisions in this project were written and understood by author. AI tools were used only for syntax assistance, debugging 
 and boilerplate code generation as permitted by course policy.
 
 ---
