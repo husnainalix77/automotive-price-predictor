@@ -17,11 +17,8 @@ regression modelling, classification modelling, clustering, and deployment.
 
 | Detail | Info |
 |---|---|
-| **Course** | Data Science and Analytics (MCT-341L) |
-| **Instructor** | Dr. Muhammad Ahsan Naeem |
 | **Department** | Mechatronics and Control Engineering |
 | **University** | University of Engineering & Technology (UET), Lahore |
-| **Group** | Group 18 — 2023-MC-53 & 2023-MC-65 |
 | **Dataset** | Car Features and MSRP — Kaggle (CooperUnion) |
 | **Regression Target** | MSRP — Manufacturer's Suggested Retail Price ($) |
 | **Classification Target** | Vehicle Size (Compact / Midsize / Large) |
@@ -43,11 +40,11 @@ regression modelling, classification modelling, clustering, and deployment.
 
 ## Project Structure
 
-FinalProject-2023-MC-53_MC-65/
+automotive-price-predictor/
 ├── notebook/
 │   ├── data/
 │   │   └── data.csv                          ← raw dataset
-│   └── FinalProject-2023-MC-53_MC-65.ipynb  ← fully executed notebook
+│   └── automotiv-price-analysis.ipynb  ← fully executed notebook
 ├── dashboard/
 │   ├── app.py                                ← Streamlit application
 │   ├── requirements.txt                      ← Python dependencies
